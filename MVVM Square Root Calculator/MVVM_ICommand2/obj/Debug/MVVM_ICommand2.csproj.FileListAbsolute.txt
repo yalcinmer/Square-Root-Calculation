@@ -1,0 +1,17 @@
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\bin\Debug\MVVM_ICommand2.exe.config
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\bin\Debug\MVVM_ICommand2.exe
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\bin\Debug\MVVM_ICommand2.pdb
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.csproj.AssemblyReference.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\App.g.cs
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2_MarkupCompile.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2_MarkupCompile.lref
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.g.resources
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.Properties.Resources.resources
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.csproj.GenerateResource.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.csproj.CoreCompileInputs.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.exe
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\MVVM_ICommand2.pdb
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\Views\MainWindow.baml
+C:\Users\Şeref\source\repos\MVVM_ICommand2\MVVM_ICommand2\obj\Debug\GeneratedInternalTypeHelper.g.cs

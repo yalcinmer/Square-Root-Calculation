@@ -1,0 +1,28 @@
+﻿<Window x:Class="MVVM_ICommand2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_ICommand2"
+        xmlns:viewmodels="clr-namespace:MVVM_ICommand2.ViewModels" 
+        mc:Ignorable="d" FontSize="20" WindowStartupLocation="CenterScreen"
+        Title="Square Root Calculation" Height="350" Width="400">
+    
+    <Window.Resources>
+        <viewmodels:SqrtViewModels x:Key="SqrtViewModel"/>
+    </Window.Resources>
+    
+    <Canvas DataContext="{Binding Source={StaticResource SqrtViewModel}}" Background="Bisque">
+        <Label FontSize="25" FontStyle="Italic" FontFamily="Verdana" Content="Square Root Calculation" 
+               Canvas.Top="10" Canvas.Left="50" Height="40"/>
+        <Label Content="Number:" Canvas.Top="85" Canvas.Left="40" Height="40"/>
+        <Label Content="Result:" Canvas.Top="165" Canvas.Left="50" Height="40"/>
+        <TextBox Text="{Binding Number, Mode=TwoWay}"  TextAlignment="Center" FontWeight="Bold" 
+                 Canvas.Top="80" Canvas.Left="130" Height="50" Width="220" />
+        <TextBox Text="{Binding Result, Mode=OneWay}" TextAlignment="Center" FontWeight="Bold" 
+                 Canvas.Top="160" Canvas.Left="130" Height="50" Width="220" />
+        <Button  Command="{Binding SqrtCommand}" Canvas.Top="250" Canvas.Left="130" Background="LightBlue"
+                 Width="220" Height="50" Content="Calculate" />
+    </Canvas>
+    
+</Window>
